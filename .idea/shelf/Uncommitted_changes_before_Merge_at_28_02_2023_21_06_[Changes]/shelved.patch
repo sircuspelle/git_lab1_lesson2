@@ -1,0 +1,24 @@
+Index: human.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/human.txt b/human.txt
+--- a/human.txt	
++++ b/human.txt	
+@@ -1,4 +1,6 @@
+-     ===
++    =====
++ ===========
++  ==     ==
+   == = = ==
+    =  =  =
+     = = = 
+@@ -8,5 +10,6 @@
+  == =   = ==
+     = = =
+     = = =
+-   === ===
++  ==== ====
++ ===== =====
+ 
