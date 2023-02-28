@@ -1,6 +1,6 @@
+второй пункт задания
+
 В разделе Compare: origin/demo and master
-
-
 
 Два коммита которые есть в демно но нет в мастере:
 Merge branch 'buttons' into demo Andrew Khodzhakhanov 29.06.2016 2:29
@@ -14,3 +14,52 @@ Merge remote-tracking branch 'origin/hat' sircuspelle 13 minutes ago
 Merge remote-tracking branch 'origin/buttons' into boots_buttons_ sircuspelle 30.12.2022 1:57
 Merge remote-tracking branch 'origin/boots' into boots_buttons_ sircuspelle 30.12.2022 1:57
 fix readme Andrew Khodzhakhanov 29.06.2016 2:29
+
+
+четвёртй пункт задания:
+    комментарии из разных веток удалённого репозитория Remote/origin:
+        boots:
+            init
+            boots
+        buttons:
+            init
+            README added
+            dots
+        demo:
+            Merge branch 'buttons' into demo Andrew Khodzhakhanov 29.06.2016 2:29
+            dots Andrew Khodzhakhanov 29.06.2016 2:24
+            README added Andrew Khodzhakhanov 29.06.2016 1:02
+            Merge branch 'boots' into release Andrew Khodzhakhanov 29.06.2016 0:55
+            boots Andrew Khodzhakhanov 29.06.2016 0:52
+            heat added Andrew Khodzhakhanov 29.06.2016 0:47
+            init Andrew Khodzhakhanov 29.06.2016 0:46
+        hat:
+            heat added Andrew Khodzhakhanov 29.06.2016 0:47
+            init Andrew Khodzhakhanov 29.06.2016 0:46
+        master:
+            fix readme Andrew Khodzhakhanov 29.06.2016 2:29
+            README added Andrew Khodzhakhanov 29.06.2016 1:02
+            init Andrew Khodzhakhanov 29.06.2016 0:46
+
+    комментарии из разных веток удалённого репозитория Remote/github:
+        master:
+            change hometask.txt sircuspelle Today 21:21
+            merge hat and boots_buttons into master sircuspelle Today 21:16
+            Merge branch 'boots_buttons_' sircuspelle Today 21:15
+            Merge remote-tracking branch 'origin/hat' sircuspelle Today 21:06
+            Merge remote-tracking branch 'origin/buttons' into boots_buttons_ sircuspelle 30.12.2022 1:57
+            Merge remote-tracking branch 'origin/boots' into boots_buttons_ sircuspelle 30.12.2022 1:57
+            fix readme Andrew Khodzhakhanov 29.06.2016 2:29
+            dots Andrew Khodzhakhanov 29.06.2016 2:24
+            README added Andrew Khodzhakhanov 29.06.2016 1:02
+            boots Andrew Khodzhakhanov 29.06.2016 0:52
+            heat added Andrew Khodzhakhanov 29.06.2016 0:47
+            init Andrew Khodzhakhanov 29.06.2016 0:46
+        boots_buttons:
+            Merge remote-tracking branch 'origin/buttons' into boots_buttons_ sircuspelle 30.12.2022 1:57
+            Merge remote-tracking branch 'origin/boots' into boots_buttons_ sircuspelle 30.12.2022 1:57
+            fix readme Andrew Khodzhakhanov 29.06.2016 2:29
+            dots Andrew Khodzhakhanov 29.06.2016 2:24
+            README added Andrew Khodzhakhanov 29.06.2016 1:02
+            boots Andrew Khodzhakhanov 29.06.2016 0:52
+            init Andrew Khodzhakhanov 29.06.2016 0:46
