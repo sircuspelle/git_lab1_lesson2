@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="882b6ae1-6482-4507-85ef-45db1338d294" name="Changes" comment="start" />
+    <list default="true" id="882b6ae1-6482-4507-85ef-45db1338d294" name="Changes" comment="merge hat and boots_buttons into master" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +45,14 @@
       <option name="presentableId" value="Default" />
       <updated>1672352909717</updated>
     </task>
+    <task id="LOCAL-00001" summary="merge hat and boots_buttons into master">
+      <created>1677608162569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677608162569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -69,7 +77,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="boots_buttons_" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -80,9 +88,25 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="merge hat and boots_buttons into master" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge hat and boots_buttons into master" />
   </component>
 </project>

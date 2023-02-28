@@ -1,0 +1,16 @@
+В разделе Compare: origin/demo and master
+
+
+
+Два коммита которые есть в демно но нет в мастере:
+Merge branch 'buttons' into demo Andrew Khodzhakhanov 29.06.2016 2:29
+Merge branch 'boots' into release Andrew Khodzhakhanov 29.06.2016 0:55
+
+
+Коммиты которых нет в демо, но есть в мастере:
+merge hat and boots_buttons into master sircuspelle 4 minutes ago
+Merge branch 'boots_buttons_' sircuspelle 4 minutes ago
+Merge remote-tracking branch 'origin/hat' sircuspelle 13 minutes ago
+Merge remote-tracking branch 'origin/buttons' into boots_buttons_ sircuspelle 30.12.2022 1:57
+Merge remote-tracking branch 'origin/boots' into boots_buttons_ sircuspelle 30.12.2022 1:57
+fix readme Andrew Khodzhakhanov 29.06.2016 2:29
